@@ -1,5 +1,6 @@
 language: c
-script: make
-script: make test
+script: 
+- make
+- make test
 sudo: enabled
 install: sudo apt-get install check
