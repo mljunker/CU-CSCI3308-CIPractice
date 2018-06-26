@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mljunker/CU-CSCI3308-CIPractice.svg?branch=master)](https://travis-ci.com/mljunker/CU-CSCI3308-CIPractice)
+
 CU-CSCI3308-CIPractice
 ======================
 
