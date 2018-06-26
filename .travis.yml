@@ -1,2 +1,4 @@
 language: c
 script: make
+sudo: enabled
+install: sudo apt-get install check
